@@ -109,3 +109,5 @@ h2 {
 
 .event span {
   font-size: 0.85rem;
+  color: var(--muted);
+}
